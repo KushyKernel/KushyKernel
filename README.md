@@ -18,7 +18,7 @@ Experienced data professional specialising in forecasting, automation, and real-
 **💼 Professional Experience:**
 - **Data Analyst at Navitas** - Forecasting, retention modeling, and strategic analytics
 - Predictive modeling using XGBoost in Azure Databricks
-- Statistical analysis (t-tests, ANOVA, logistic regression)
+- Statistical analysis
 - Automated reporting and compliance systems
 
 ---
