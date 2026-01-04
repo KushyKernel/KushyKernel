@@ -30,7 +30,6 @@ Experienced data professional specialising in forecasting, automation, and real-
 - Advanced machine learning techniques and model optimization
 - MLOps and scalable model deployment
 - Advanced Azure cloud services
-- Statistical analysis and experiment design
 
 ## 💬 Let's Connect!
 
