@@ -27,7 +27,7 @@ Experienced data professional specialising in forecasting, automation, and real-
 
 ## 🎯 What I'm Learning
 
-- Advanced machine learning techniques and model optimization
+- Advanced machine learning techniques and Geospatial Methodologies
 - MLOps and scalable model deployment
 - Advanced Azure cloud services
 
