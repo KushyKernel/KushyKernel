@@ -36,7 +36,6 @@ Experienced data professional specialising in forecasting, automation, and real-
 - 📫 Email: **tife.kusimo@gmail.com**
 - 🌐 Portfolio: **[tifekusimo.com](https://tifekusimo.com/)**
 - 💼 LinkedIn: **[linkedin.com/in/kushykernel](https://linkedin.com/in/kushykernel)**
-- 🏆 Kaggle: **[kaggle.com/tifekusimo](https://kaggle.com/tifekusimo)**
 
 ## ⚡ Fun Facts
 
