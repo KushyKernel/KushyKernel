@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushykernel&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="kushykernel" /> </p>
 
-## 🚀 About Me
+## About Me
 
 Experienced data professional specialising in forecasting, automation, and real-time analytics. I focus on delivering scalable solutions that integrate diverse data sources and translate complex problems into clear, data-driven actions.
 
-**🎯 Current Focus:**
-- 🌱 Building predictive models for business forecasting
-- 🔍 Developing automated analytics pipelines 
-- 📊 Creating real-time dashboards and visualizations
-- ⚡ Process optimisation and automation
+**Current Focus:**
+- Building predictive models for business forecasting
+- Developing automated analytics pipelines 
+- Creating real-time dashboards and visualizations
+- Process optimisation and automation
 
-**💼 Professional Experience:**
+**Professional Experience:**
 - **Data Analyst at Navitas** - Forecasting, retention modeling, and strategic analytics
 - Predictive modeling using CatBoost in Azure Databricks
 - Statistical analysis
@@ -25,24 +25,24 @@ Experienced data professional specialising in forecasting, automation, and real-
 
 <h3 align="left">Languages and Tools:</h3>
 
-## 🎯 What I'm Learning
+## What I'm Learning
 
 - Advanced machine learning techniques and Geospatial Methodologies
 - MLOps and scalable model deployment
 - Advanced Azure cloud services
 
-## 💬 Let's Connect!
+## Let's Connect!
 
-- 📫 Email: **tife.kusimo@gmail.com**
-- 🌐 Portfolio: **[tifekusimo.com](https://tifekusimo.com/)**
-- 💼 LinkedIn: **[linkedin.com/in/kushykernel](https://linkedin.com/in/kushykernel)**
+- Email: **tife.kusimo@gmail.com**
+- Portfolio: **[tifekusimo.com](https://tifekusimo.com/)**
+- LinkedIn: **[linkedin.com/in/kushykernel](https://linkedin.com/in/kushykernel)**
 
-## ⚡ Fun Facts
+## Fun Facts
 
-- 🎌 Anime and manga enthusiast
-- 🎮 Gamer and technology explorer  
-- 🥋 MMA fan
-- 📚 Always learning something new in the data science space
+- Anime and manga enthusiast
+- Gamer and technology explorer  
+- MMA fan
+- Always learning something new in the data science space
 
 ---
 
@@ -61,7 +61,7 @@ Experienced data professional specialising in forecasting, automation, and real-
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushykernel&theme=tokyonight" alt="kushykernel" />
