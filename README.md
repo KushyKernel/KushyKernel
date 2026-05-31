@@ -33,7 +33,8 @@ Currently at **GC Business Finance**, where I am building the analytics capabili
 
 - **Credit Risk Intelligence**: production ML for arrears prediction, survival analysis, portfolio forecasting, and anomaly detection in lending portfolios
 - **Causal and XAI**: Difference-in-Differences, Propensity Score Matching, Bayesian experimentation, uplift modelling, and SHAP explainability in regulated financial services
-- **Expert Python engineering**: typed functions, OOP, Poetry, logging, pytest, profiling, and optimisation
+- **MLOps**: MLflow experiment tracking and model registry, Evidently drift monitoring, champion or challenger versioning, FastAPI model serving, and Docker containerisation
+- **Expert Python engineering**: typed functions, OOP, uv, logging, pytest, profiling, and optimisation
 - **Microsoft AI-300 certification**: targeting 2027
 
 ---
@@ -53,7 +54,7 @@ Work in progress. Four public projects across four industries using open dataset
 
 | Project | Industry | Status |
 |---|---|---|
-| Credit Risk End-to-End Pipeline | Lending | In progress |
+| Credit Risk ML Pipeline with MLOps | Lending | In progress |
 | Insurance Claims Analysis | Insurance | Upcoming |
 | Causal Inference Case Study | Retail Banking | Upcoming |
 | Portfolio Analytics Dashboard | Investment Management | Upcoming |
@@ -97,7 +98,7 @@ Full write-ups at **[tifekusimo.com](https://tifekusimo.com/)**
   </a>
 </p>
 
-**Working toward adding:** CatBoost, SHAP, lifelines, PyMC, MLflow (production), Azure ML
+**Working toward adding:** CatBoost, SHAP, lifelines, PyMC, MLflow (production), FastAPI, uv, Azure ML
 
 ---
 
