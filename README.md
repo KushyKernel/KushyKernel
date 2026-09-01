@@ -4,7 +4,7 @@
 <h3 align="center">Data Scientist | Credit Risk | Python & SQL</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=kushykernel&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="kushykernel" />
+  <img src="https://komarev.com/ghpvc/?username=tifekush&label=Profile%20views&color=0e75b6&style=flat&v=2" alt="tifekush" />
 </p>
 
 ---
@@ -121,7 +121,7 @@ Full write-ups at **[tifekusimo.com](https://tifekusimo.com/)**
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=kushykernel&theme=tokyonight" alt="kushykernel" />
+  <img src="https://streak-stats.demolab.com/?user=tifekush&theme=tokyonight" alt="tifekush" />
 </div>
 
 <br clear="both" />
